@@ -1,4 +1,4 @@
-baseURL = "http://jennySite.org"
+baseURL = "http://jennySite.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
